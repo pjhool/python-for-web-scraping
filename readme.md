@@ -36,7 +36,7 @@
  
  3. 시계열 데이터 수집하고 활용하기 
  
-       - 
+       - FRED Economic Data  :  https://fred.stlouisfed.org/series/DEXKOUS    
  
  4. Open Data 수집과 활용 : PDF , Linked Open  Data 
  
