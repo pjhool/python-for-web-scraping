@@ -25,6 +25,17 @@
  4. Open Data 수집과 활용 : PDF , Linked Open  Data 
  
  5. 웹페이지 자동 조작 
+   5.1 Selenium 과 PhantomJS 설치   
+     - pip install selenum==3.0    
+     - wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.8-linux-x86_64.tar.bz2   
+     
+     - sudo apt-get install -y fonts-nanum* 
+     
+   5.2 RSS 피드 생성하기   
+     - pip install feedgenerator 
+   
+   
+   
  
  
  
