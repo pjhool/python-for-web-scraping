@@ -7,5 +7,6 @@
  *   https://archive.org/download/kowiki-20170801 
  1.   wget https://archive.org/download/kowiki-20170801/kowiki-20170801-pages-articles.xml.bz2 
  2.  bzcat kowiki-20170801-pages-articles.xml.bz2 
- 3.  wget https://github.com/attardi/wikiextractor/blob/master/WikiExtractor.py
+ 3.  wget https://github.com/attardi/wikiextractor/blob/master/WikiExtractor.py   
+   3.1   위키 추출기 :   https://github.com/attardi/wikiextractor 
  4.  python WikiExtractor.py  --no-templates -o articles -b 100M  kowiki-20170801-pages-articles.xml
