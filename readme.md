@@ -12,4 +12,4 @@
    3.2  python WikiExtractor.py  --no-templates -o articles -b 100M  kowiki-20170801-pages-articles.xml
  4.  pip install konlpy 
  5.  pip install jpype1 
- 6.  python chapter6/word_frequency.py
+ 6.  python chapter_5/word_frequency.py
