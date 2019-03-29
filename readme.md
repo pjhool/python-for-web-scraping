@@ -22,7 +22,7 @@
  
  3. 시계열 데이터 수집하고 활용하기 
  
- 4. Open Data 수집과 활용 : PDF , Linked Opend Data 
+ 4. Open Data 수집과 활용 : PDF , Linked Open  Data 
  
  5. 웹페이지 자동 조작 
  
