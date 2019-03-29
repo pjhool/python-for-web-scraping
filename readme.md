@@ -47,7 +47,14 @@
      
      - sudo apt-get install -y fonts-nanum* 
      
-   5.2 RSS 피드 생성하기   
+     - 웹페이지 스크린샷 찍기 
+     
+   5.2  RoboBrowser 사용하기    
+      
+     - pip install robobrowser chardet  
+     
+     
+   5.3 RSS 피드 생성하기   
      - pip install feedgenerator 
    
    
