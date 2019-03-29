@@ -13,3 +13,7 @@
  4.  pip install konlpy 
  5.  pip install jpype1 
  6.  python chapter_5/word_frequency.py
+
+#  API 로 데이터 수집하고 활용하기 
+ 1. 트위터에서 데이터 수집하기 
+ 
