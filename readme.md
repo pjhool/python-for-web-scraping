@@ -16,11 +16,18 @@
 
 #  API 로 데이터 수집하고 활용하기 
  1. 트위터에서 데이터 수집하기    
-   1.1  pip install requests-oauthlib
+   1.1  pip install requests-oauthlib 
+      
    1.2  forego 설치   
       - wget https://bin.equinox.io/c/ekMN3bCZFUn/forego-stable-linux-amd64.deb   
       - sudo dpkg -i forego-stable-linux-amd64.deb 
-      -  foregor run python   
+      - .env 작성  
+         - echo "CONSUMER_KEY=xxxx " > .env       
+         - echo "CONSUMER_SECRET=xxxx " >> .env   
+         - echo "ACCESS_TOKEN=xxxx " >> .env   
+         - echo "ACCESS_TOKEN_SECRET= xxxx " >> .env   
+         
+      -  forego run python chapter_5/rest_api_with_tweepy.py    
  
  2. 유튜브에서 동영상 정보 수집하기 
  
