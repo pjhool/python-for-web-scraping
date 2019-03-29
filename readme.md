@@ -30,9 +30,13 @@
       -  forego run python chapter_5/rest_api_with_tweepy.py    
  
  2. 유튜브에서 동영상 정보 수집하기 
- 
+      
+       -  curl "https://www.googleapis.com/youtube/v3/videos?key=p5Qnw8pnmgSWPh0II&id=muxH23R0DT0&part=snippet,statistics" 
+  
  
  3. 시계열 데이터 수집하고 활용하기 
+ 
+       - 
  
  4. Open Data 수집과 활용 : PDF , Linked Open  Data 
  
